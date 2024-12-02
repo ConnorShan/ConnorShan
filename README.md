@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ConnorShan
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python, SQL and Power BI
+- 📫 How to reach me www.linkedin.com/in/connor-shanley-247b0328b
+- 😄 Pronouns: He/Him
